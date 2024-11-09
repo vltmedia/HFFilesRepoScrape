@@ -133,8 +133,9 @@ function downloadFile() {
 
 
 
+// Usage:
 
-let files = processHFTable();
+// let files = processHFTable();
 
-// save the results to a .json file
-downloadFile();
+// // save the results to a .json file
+// downloadFile();
